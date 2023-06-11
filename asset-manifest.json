@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/meltsinovens/static/css/main.e6c13ad2.css",
-    "main.js": "/meltsinovens/static/js/main.b6a8ba93.js",
+    "main.js": "/meltsinovens/static/js/main.412066eb.js",
     "static/js/787.234d16a4.chunk.js": "/meltsinovens/static/js/787.234d16a4.chunk.js",
     "static/media/logo.png": "/meltsinovens/static/media/logo.d9e4cda375463ecbd765.png",
     "index.html": "/meltsinovens/index.html",
     "main.e6c13ad2.css.map": "/meltsinovens/static/css/main.e6c13ad2.css.map",
-    "main.b6a8ba93.js.map": "/meltsinovens/static/js/main.b6a8ba93.js.map",
+    "main.412066eb.js.map": "/meltsinovens/static/js/main.412066eb.js.map",
     "787.234d16a4.chunk.js.map": "/meltsinovens/static/js/787.234d16a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b6a8ba93.js"
+    "static/js/main.412066eb.js"
   ]
 }
